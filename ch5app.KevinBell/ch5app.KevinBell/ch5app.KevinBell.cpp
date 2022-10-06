@@ -16,7 +16,7 @@ int main()
         inputFile.close();
     }
     else {
-        cout << "Error opening the file.\n";
+        cout << "My name is Kevin Bell. Error opening the file. This is a test.\n";
     }
     return 0;
 }
