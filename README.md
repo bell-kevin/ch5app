@@ -1,13 +1,5 @@
 # ch5app
 
-Problem #3: (12 points) In the book, Section 5.13 presents a project and demonstrates the application of test cases. Create this project shown in Project 5-21; follow the instructions about testing it, using the simple test cases in table 5-2, and with the more complete test cases in table 5-3. Take screenshots of the results of each of the 3 test cases in table 5-3. In the Word document, explain what those 5 logic errors are. Edit the project as necessary to fix the logic errors discovered by using the test cases in table 5-3. Run the project with those 3 test cases again, and take screenshots of those fixed results, so you have "before" and "after" screenshots for each test case.
-
-Submit the 6 screenshots, the explanation of the errors in the Word document, and the root folder of the project.
-
- 
-
-Submission: the Word document with your responses to the problems, plus the screenshots and root folder for the project in problem 3.
-
 == We're Using GitHub Under Protest ==
 
 This project is currently hosted on GitHub.  This is not ideal; GitHub is a
